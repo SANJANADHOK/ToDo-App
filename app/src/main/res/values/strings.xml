@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginTask</string>
+    <string name="log_in">log_in</string>
+    <string name="login">Login</string>
+    <string name="enter_todo">enter todo</string>
+    <string name="add_to_do">add_to_do</string>
+    <string name="sign_up">sign up</string>
+</resources>

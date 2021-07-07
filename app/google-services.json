@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530553427129",
+    "project_id": "logintask-d93be",
+    "storage_bucket": "logintask-d93be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530553427129:android:7fa6668d525c16d4007768",
+        "android_client_info": {
+          "package_name": "co.in.nextgencoder.logintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530553427129-n6sunot2vao7rekdn0gj20vcc80r15jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXctnWjB6DlwJMIFYKq-6j8L7jLPQ6k8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530553427129-n6sunot2vao7rekdn0gj20vcc80r15jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
